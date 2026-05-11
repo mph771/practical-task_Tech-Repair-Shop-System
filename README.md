@@ -2,7 +2,7 @@
 
 A robust Python-based Command Line Interface (CLI) application designed to automate the billing and management of hardware and software repair services. The system leverages advanced Object-Oriented Programming (OOP) principles to ensure data integrity and scalable architecture.
 
-* Explanation video: 
+* Explanation video: https://drive.google.com/file/d/1p-L33eRA0znXglsBG0SBAM0J_QOitCNW/view?usp=sharing
 
 ## Project Overview
 
