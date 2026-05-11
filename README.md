@@ -1,7 +1,8 @@
 # Tech Repair Shop Management System
 
 A robust Python-based Command Line Interface (CLI) application designed to automate the billing and management of hardware and software repair services. The system leverages advanced Object-Oriented Programming (OOP) principles to ensure data integrity and scalable architecture.
-Explanation video:  https://drive.google.com/file/d/1Wv12r3g7Xt_ac876lhF1J0dez3-c3jb3/view?usp=sharing
+
+* Explanation video:  https://drive.google.com/file/d/1Wv12r3g7Xt_ac876lhF1J0dez3-c3jb3/view?usp=sharing
 
 ## Project Overview
 
